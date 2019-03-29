@@ -1,0 +1,10 @@
+# Final Words
+
+We have finished a nice book.
+
+'''{r}
+students <- data.frame(name=c ("trierweiler", "gaulke", "miebach", "strolz", "ebach", "hahn", "forster", "fidalgo"),
+              age=c(23, 23, 24, 33, 28, 24, 33, 21),
+              like+ c(T, T, T, T, F))
+students
+'''
